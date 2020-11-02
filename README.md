@@ -7,3 +7,7 @@ https://ask.sqlservercentral.com/questions/114601/effect-of-changing-datatype-of
 https://www.mssqltips.com/sqlservertip/1903/best-practices-for-sql-server-database-alter-table-operations/
 
 https://blog.sqlauthority.com/2017/07/04/sql-server-alter-column-int-bigint-error-solutions/
+
+BIT --> TINYINT , WHY? 
+
+https://www.bennadel.com/blog/3845-why-i-use-tinyint-columns-instead-of-bit-columns-for-boolean-data-in-a-mysql-application.htm
